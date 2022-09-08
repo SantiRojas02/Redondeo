@@ -1,0 +1,9 @@
+D:\Facultad\Programacion\Actividad 1\Redondeo.vb\Redondeo\Redondeo\bin\Debug\Redondeo.exe.config
+D:\Facultad\Programacion\Actividad 1\Redondeo.vb\Redondeo\Redondeo\obj\Debug\Redondeo.Resources.resources
+D:\Facultad\Programacion\Actividad 1\Redondeo.vb\Redondeo\Redondeo\obj\Debug\Redondeo.vbproj.GenerateResource.Cache
+D:\Facultad\Programacion\Actividad 1\Redondeo.vb\Redondeo\Redondeo\bin\Debug\Redondeo.exe
+D:\Facultad\Programacion\Actividad 1\Redondeo.vb\Redondeo\Redondeo\bin\Debug\Redondeo.pdb
+D:\Facultad\Programacion\Actividad 1\Redondeo.vb\Redondeo\Redondeo\bin\Debug\Redondeo.xml
+D:\Facultad\Programacion\Actividad 1\Redondeo.vb\Redondeo\Redondeo\obj\Debug\Redondeo.exe
+D:\Facultad\Programacion\Actividad 1\Redondeo.vb\Redondeo\Redondeo\obj\Debug\Redondeo.xml
+D:\Facultad\Programacion\Actividad 1\Redondeo.vb\Redondeo\Redondeo\obj\Debug\Redondeo.pdb
